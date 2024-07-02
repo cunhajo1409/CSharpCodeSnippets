@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|c:\\code training\\sandbox\\algorithms\\javascript algoritms and data structures steele\\csharpvisualstudio\\csharpcodesnippets\\cssnippets\\areobjectsequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|solutionrelative:cssnippets\\areobjectsequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|c:\\code training\\sandbox\\algorithms\\javascript algoritms and data structures steele\\csharpvisualstudio\\csharpcodesnippets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|c:\\code training\\sandbox\\algorithms\\javascript algoritms and data structures steele\\csharpvisualstudio\\csharpcodesnippets\\cssnippets\\stringcharinventoryarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|solutionrelative:cssnippets\\stringcharinventoryarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|c:\\code training\\sandbox\\algorithms\\javascript algoritms and data structures steele\\csharpvisualstudio\\csharpcodesnippets\\cssnippets\\squaredsamefrqarraymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|solutionrelative:cssnippets\\squaredsamefrqarraymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|c:\\code training\\sandbox\\algorithms\\javascript algoritms and data structures steele\\csharpvisualstudio\\csharpcodesnippets\\cssnippets\\stringcharinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8310B-5270-4C97-9411-19948684E78C}|CSharpCodeSnippets.csproj|solutionrelative:cssnippets\\stringcharinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringCharInventoryArray.cs",
+              "DocumentMoniker": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\StringCharInventoryArray.cs",
+              "RelativeDocumentMoniker": "CSSnippets\\StringCharInventoryArray.cs",
+              "ToolTip": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\StringCharInventoryArray.cs",
+              "RelativeToolTip": "CSSnippets\\StringCharInventoryArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:56:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SquaredSameFrqArrayMatch.cs",
+              "DocumentMoniker": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\SquaredSameFrqArrayMatch.cs",
+              "RelativeDocumentMoniker": "CSSnippets\\SquaredSameFrqArrayMatch.cs",
+              "ToolTip": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\SquaredSameFrqArrayMatch.cs",
+              "RelativeToolTip": "CSSnippets\\SquaredSameFrqArrayMatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:56:17.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreObjectsEqual.cs",
+              "DocumentMoniker": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\AreObjectsEqual.cs",
+              "RelativeDocumentMoniker": "CSSnippets\\AreObjectsEqual.cs",
+              "ToolTip": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\AreObjectsEqual.cs",
+              "RelativeToolTip": "CSSnippets\\AreObjectsEqual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:56:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringCharInventory.cs",
+              "DocumentMoniker": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\StringCharInventory.cs",
+              "RelativeDocumentMoniker": "CSSnippets\\StringCharInventory.cs",
+              "ToolTip": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\CSSnippets\\StringCharInventory.cs",
+              "RelativeToolTip": "CSSnippets\\StringCharInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:04:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Code Training\\Sandbox\\Algorithms\\Javascript Algoritms and Data Structures Steele\\CSharpVisualStudio\\CSharpCodeSnippets\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:03:42.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
